@@ -3,7 +3,7 @@
 Project carried out during the Trybe course
 
 ## Download the repository with:
-### `git clone git@github.com:JulioCesar1402/CookMaster.git`
+### `git clone git@github.com:JulioCesar1402/WebChat.git`
 
 ## Running project:
 

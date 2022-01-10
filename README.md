@@ -10,8 +10,8 @@ Project carried out during the Trybe course
 - Install all dependency
 ```
 npm install
-
 ```
 - Start the project
 ```
 npm start
+```

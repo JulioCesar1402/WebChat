@@ -10,8 +10,7 @@ Project developed during the Trybe course
 
 ## Requirements:
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-\n
-\n
+
 ## Download the repository with:
 ```
 $ git clone git@github.com:JulioCesar1402/WebChat.git

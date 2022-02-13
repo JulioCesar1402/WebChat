@@ -10,7 +10,7 @@ Project developed during the Trybe course
 ![Socket.io](https://img.shields.io/badge/socket.io-blue?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ## Requirements:
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [Node](https://nodejs.org/en/) and [MongoDB](https://docs.mongodb.com/manual/administration/install-community/) installed.
 
 ## Download the repository with:
 ```
